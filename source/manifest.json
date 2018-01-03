@@ -12,5 +12,8 @@
       "js": ["jquery-3.2.1.min.js", "content.js"]
     }
   ],
+  "icons": {
+    "16": "favicon.png"
+  },
   "update_url": "https://raw.githubusercontent.com/amokrunner/lighterpack-chrome-mods/master/updates.xml"
 }
