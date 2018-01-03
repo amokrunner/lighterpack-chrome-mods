@@ -12,5 +12,5 @@
       "js": ["jquery-3.2.1.min.js", "content.js"]
     }
   ],
-  "update_url": ""
+  "update_url": "https://raw.githubusercontent.com/amokrunner/lighterpack-chrome-mods/master/updates.xml"
 }
